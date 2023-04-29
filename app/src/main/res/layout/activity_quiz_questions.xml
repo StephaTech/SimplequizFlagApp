@@ -49,7 +49,7 @@
                 style="?android:attr/progressBarStyleHorizontal"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:max="11"
+                android:max="12"
                 android:indeterminate="false"
                 android:minHeight="50dp"
                 android:progress="5" /> <!--o que quer dizer 5?-->
@@ -61,7 +61,7 @@
                 android:gravity="center"
                 android:padding="15dp"
                 android:textSize="14sp"
-                android:text="0/11"/>
+                android:text="0/12"/>
 
         </LinearLayout>
 

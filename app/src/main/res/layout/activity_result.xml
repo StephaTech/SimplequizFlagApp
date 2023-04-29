@@ -24,7 +24,7 @@
         android:layout_width="300dp"
         android:layout_height="200dp"
         android:contentDescription="Trophy Image"
-        android:src="@drawable/ic_trophy2" />
+        android:src="@drawable/ic_trophy" />
 
     <TextView
         android:id="@+id/tv_congrats"
@@ -53,7 +53,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="Your Score is 9 out 10"
+        android:text="Your Score is 9 out 12"
         android:textColor="@android:color/secondary_text_dark"
         android:textSize="20sp"
         />
